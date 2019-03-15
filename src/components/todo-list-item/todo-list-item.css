@@ -1,0 +1,7 @@
+.todo-list-item__label {
+  cursor: pointer;
+}
+
+.todo-list-item--done {
+  text-decoration: line-through;
+}
